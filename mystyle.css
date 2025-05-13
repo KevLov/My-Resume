@@ -2,13 +2,14 @@
   box-sizing: border-box;
   
 }
-body{
+/*body{
 
     border-style: solid;
-}
-section {
+}*/
+.container {
+
   display: flex;
-  border-style: black solid;
+
 }
 header {
   font-family: "Arial black";
@@ -43,11 +44,11 @@ article {
   color: #303030;
 }
 footer {
-  margin: 0px 80px;
+    
+   margin: 0px 478px;
   background-color: #d1d1d1;
-  padding: 10px;
   text-align: center;
-  color: rgb(0, 0, 0);
+  
 }
 .exp{
 padding: 0px 30px;
